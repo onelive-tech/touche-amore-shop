@@ -165,7 +165,7 @@
         "unit_price": "Unit price"
       },
       "share": "Share this product",
-      "sold_out": "SOLD OUT",
+      "sold_out": "Sold out",
       "unavailable": "Unavailable",
       "vendor": "Vendor",
       "value_unavailable": "{{ option_value }} - Unavailable",
@@ -523,13 +523,6 @@
       "max_characters": "{{ max_chars }} characters max",
       "send_on": "YYYY-MM-DD",
       "send_on_label": "Send on (optional)"
-    }
-  },
-  "shopify": {
-    "checkout": {
-      "shipping": {
-        "shipping_method_notice": "Any pre-order items will ship in line with the release date. For EU – ‘Tracked DDP’ includes pre-paid local duties\/taxes\/fees. We ship worldwide, orders may be subject to local duties\/fees."
-      }
     }
   }
 }
