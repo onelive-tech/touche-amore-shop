@@ -1,0 +1,135 @@
+{
+  "sections": {
+    "ezfy_responsive_banner_Ei9XbT": {
+      "type": "ezfy-responsive-banner",
+      "disabled": true,
+      "settings": {
+        "image-desktop": "shopify:\/\/shop_images\/BNR-DSK.jpg",
+        "image-mobile": "shopify:\/\/shop_images\/BNR-MOB.jpg",
+        "button_link": "",
+        "open-new-tab": false,
+        "bottom-spacing": 0,
+        "top-spacing": 0,
+        "image-alt": "",
+        "preload-image": true
+      }
+    },
+    "featured_product_Rddb94": {
+      "type": "featured-product",
+      "blocks": {
+        "title_ChcrPA": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h2"
+          }
+        },
+        "price_EfC73R": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_MpgHKy": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_CA4VEY": {
+          "type": "quantity_selector",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "share_JML6CX": {
+          "type": "share",
+          "disabled": true,
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "text_yBdW6a": {
+          "type": "text",
+          "settings": {
+            "text": "Limited edition deluxe version of the brand new album, Spiral In A Straight Line. Includes a case bound book featuring 3 chapters across 72 pages of behind the scenes images showing the making of the album in the studio. Limited to 2,000 copies worldwide. ",
+            "text_style": "body"
+          }
+        },
+        "buy_buttons_cYpcky": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": false,
+            "show_gift_card_recipient": false
+          }
+        },
+        "text_4HkLwh": {
+          "type": "text",
+          "settings": {
+            "text": "<em>Please note: This is a pre-order item and will ship on release 11\/10\/2024.<\/em>",
+            "text_style": "uppercase"
+          }
+        }
+      },
+      "block_order": [
+        "title_ChcrPA",
+        "price_EfC73R",
+        "variant_picker_MpgHKy",
+        "quantity_selector_CA4VEY",
+        "share_JML6CX",
+        "text_yBdW6a",
+        "buy_buttons_cYpcky",
+        "text_4HkLwh"
+      ],
+      "settings": {
+        "product": "spiral-in-a-straight-line-deluxe-lp-tam",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "cover",
+        "media_position": "left",
+        "image_zoom": "none",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 8,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [
+        ".gradient {background: transparent;"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "uppercase",
+        "collection": "spiral-in-a-straight-line",
+        "products_to_show": 9,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-5",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 16,
+        "padding_bottom": 44
+      }
+    }
+  },
+  "order": [
+    "ezfy_responsive_banner_Ei9XbT",
+    "featured_product_Rddb94",
+    "featured_collection"
+  ]
+}
