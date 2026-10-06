@@ -35,9 +35,9 @@
         "collapsible_tab_xFgDBQ": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "EU SHIPPING INFORMATION",
+            "heading": "DIGITAL PRODUCT",
             "icon": "check_mark",
-            "content": "<p><em>All EU orders are shipped Tracked DDP [Delivered Duty Paid] to ensure you will have no additional duties to pay on receipt. We ship worldwide, from the UK.</em></p>",
+            "content": "<p><em>DISCLAIMER: This is not a physical product. Digital downloads will expire so please store them on your computer for future use. Because this is a digital product, we are unable to issue refunds.</em></p>",
             "page": ""
           }
         },
@@ -91,7 +91,7 @@
         "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 20,
+        "padding_top": 40,
         "padding_bottom": 12
       }
     },

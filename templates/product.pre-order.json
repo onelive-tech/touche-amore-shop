@@ -32,20 +32,29 @@
           "disabled": true,
           "settings": {}
         },
-        "collapsible_tab_xFgDBQ": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "EU SHIPPING INFORMATION",
-            "icon": "check_mark",
-            "content": "<p><em>All EU orders are shipped Tracked DDP [Delivered Duty Paid] to ensure you will have no additional duties to pay on receipt. We ship worldwide, from the UK.</em></p>",
-            "page": ""
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
+          }
+        },
+        "collapsible_tab_DQWw78": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "PRE-ORDER / RELEASED: OCTOBER 11TH",
+            "icon": "check_mark",
+            "content": "<p><em>Please note: This is a pre-order item and will ship on release 11/10/2024.</em></p>",
+            "page": ""
+          }
+        },
+        "collapsible_tab_MYWLy9": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "EU SHIPPING INFORMATION",
+            "icon": "question_mark",
+            "content": "<p><em>All EU orders are shipped Tracked DDP [Delivered Duty Paid] to ensure you will have no additional duties to pay on receipt. We ship worldwide, from the UK.</em></p>",
+            "page": ""
           }
         },
         "description": {
@@ -72,17 +81,20 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "collapsible_tab_xFgDBQ",
         "buy_buttons",
+        "collapsible_tab_DQWw78",
+        "collapsible_tab_MYWLy9",
         "description",
         "vendor",
         "share"
       ],
-      "custom_css": [],
+      "custom_css": [
+        ".gradient {background: transparent;"
+      ],
       "settings": {
         "enable_sticky_info": true,
         "color_scheme": "scheme-5",
-        "media_size": "large",
+        "media_size": "medium",
         "constrain_to_viewport": true,
         "media_fit": "contain",
         "gallery_layout": "thumbnail",
@@ -91,13 +103,13 @@
         "mobile_thumbnails": "show",
         "hide_variants": true,
         "enable_video_looping": false,
-        "padding_top": 20,
+        "padding_top": 4,
         "padding_bottom": 12
       }
     },
     "related-products": {
       "type": "related-products",
-      "custom_css": [],
+      "disabled": true,
       "settings": {
         "heading": "You may also like",
         "heading_size": "h2",
